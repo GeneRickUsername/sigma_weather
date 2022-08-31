@@ -1,0 +1,8 @@
+{
+    "name":"sigma_weather",
+    "version":"0.0.1",
+    "title":"Sigma Weather",
+    "author":"GeneRickUsername",
+    "factorio_version":"1.1.68",
+    "dependecies": ["base >= 1.1"],
+}
